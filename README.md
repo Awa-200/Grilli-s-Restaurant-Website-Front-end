@@ -36,7 +36,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/grills-restaurant-frontend.git
+git clone https://github.com/gihanthadeshabi/grills-restaurant-frontend.git
 Navigate to the Project Directory:
 
 bash
