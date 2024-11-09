@@ -1,18 +1,18 @@
-Grill's Restaurant Website Frontend
+## Grill's Restaurant Website Frontend
 
 A single-page frontend for Grill's Restaurant, developed with HTML, CSS, and JavaScript. This project embodies Grill's dedication to flavorful cuisine, warm hospitality, and traditional culinary artistry. It offers users a seamless, inviting experience with easy navigation and a responsive design.
 
-Table of Contents
+## Table of Contents
 
-Project Overview
-Features
-Technologies Used
-Setup and Installation
-Usage
-Contributing
-License
+** Project Overview
+** Features
+** Technologies Used
+** Setup and Installation
+** Usage
+** Contributing
+** License
 
-Project Overview
+## Project Overview
 
 At Grill's, we believe that every meal should be a celebration of flavors, traditions, and warm hospitality. Our website aims to deliver this philosophy to our users, providing an online space where they can explore our menu, experience our values, and feel the essence of Grill's dining experience.
 
