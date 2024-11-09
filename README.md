@@ -36,7 +36,8 @@ To set up this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/gihanthadeshabi/grills-restaurant-frontend.git
-
-```bash
 cd grills-restaurant-frontend
+
+
+
 
