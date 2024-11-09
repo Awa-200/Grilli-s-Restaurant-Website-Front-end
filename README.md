@@ -33,14 +33,15 @@ JavaScript - For interactivity and a seamless single-page experience.
 
 ## *Clone the Repository*:
 
-bash
-Copy code
-git clone https://github.com/gihanthadeshabi/grills-restaurant-frontend.git
-Navigate to the Project Directory:
+* bash
+* Copy code
+* git clone https://github.com/gihanthadeshabi/grills-restaurant-frontend.git
+* Navigate to the Project Directory:
 
-bash
-Copy code
-cd grills-restaurant-frontend
+* bash
+*  Copy code
+* cd grills-restaurant-frontend
+* 
 Open in a Code Editor: You can open the project in any code editor, such as VS Code.
 
 Launch Locally: Open the index.html file in your browser to view the site locally.
