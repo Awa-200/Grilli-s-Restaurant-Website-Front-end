@@ -2,7 +2,7 @@
 
 A single-page frontend for Grill's Restaurant, developed with HTML, CSS, and JavaScript. This project embodies Grill's dedication to flavorful cuisine, warm hospitality, and traditional culinary artistry. It offers users a seamless, inviting experience with easy navigation and a responsive design.
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -10,11 +10,11 @@ A single-page frontend for Grill's Restaurant, developed with HTML, CSS, and Jav
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 
-## Project Overview
+## 🌄 Project Overview
 
 At Grill's, we believe that every meal should be a celebration of flavors, traditions, and warm hospitality. Our website aims to deliver this philosophy to our users, providing an online space where they can explore our menu, experience our values, and feel the essence of Grill's dining experience.
 
-## Features
+## 🚀 Features
 
 - **Responsive Design:** Optimized for desktops, tablets, and mobile devices.
 - **Single-Page Application:** Quick navigation without page reloads for a smooth user experience.
@@ -22,7 +22,7 @@ At Grill's, we believe that every meal should be a celebration of flavors, tradi
 - **Menu Display:** A dedicated section to showcase Grill's menu items.
 - **About Section:** Detailed information about Grill's philosophy and commitment to quality.
 
-## Technologies Used
+## 🛠 Technologies 
 
 - **HTML** - For structuring the content of the website.
 - **CSS** - For styling and layout, ensuring a responsive and appealing design.
