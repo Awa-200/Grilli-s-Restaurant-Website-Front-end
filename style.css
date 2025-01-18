@@ -16,10 +16,10 @@
     /**
    * COLORS
    */
-    --gold-crayola: hsl(38, 61%, 73%);
+    --gold-crayola: hsl(0, 0%, 100%);
     --quick-silver: hsla(0, 0%, 65%, 1);
     --davys-grey: hsla(30, 3%, 34%, 1);
-    --smoky-black-1: hsla(40, 12%, 5%, 1);
+    --smoky-black-1: rgb(0, 0, 0);
     --smoky-black-2: hsla(30, 8%, 5%, 1);
     --smoky-black-3: hsla(0, 3%, 7%, 1);
     --eerie-black-1: hsla(210, 4%, 9%, 1);
@@ -665,7 +665,7 @@ body.nav-active {
     left: 0;
     width: 100%;
     background-color: transparent;
-    padding-block: 40px;
+    padding-block: 10px;
     z-index: 4;
     border-block-end: 1px solid transparent;
     transition: var(--transition-1);
@@ -894,7 +894,7 @@ body.nav-active {
     padding-block-start: 100px;
     opacity: 0;
     visibility: hidden;
-    transition: var(--transition-3);
+    transition: var(--transition-2);
     z-index: 1;
 }
 
